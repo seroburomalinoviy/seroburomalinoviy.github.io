@@ -1,6 +1,6 @@
 title: seroburomalinoviy
 logo: /assets/img/logo.jpeg
 description: My name is Sergeev Ivan and I'm python developer from Saint-Petersburg
-show_downloads: False
+show_downloads: True
 google_analytics:
 theme: jekyll-theme-minimal
