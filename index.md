@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Sergeev Ivan
+
+▶️ [Download CV in pdf](./CV.pdf)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
