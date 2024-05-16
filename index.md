@@ -2,126 +2,58 @@
 layout: default
 ---
 
-# Sergeev Ivan
-
-▶️ [Download CV in pdf](./CV.pdf)
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Сергеев Иван
 
 
-### Definition lists can be used with HTML syntax.
+▶️ [Скачать ПДФ](./CV.pdf)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+###### Python back-end разработчик
+
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Привет! Хочу денно нощно работать над крутым продуктом.
+Ищу интересные и сложные проекты в крутой it-компании.
 ```
 
-```
-The final element.
-```
+
+
+### Опыт работы
+> TripleTen (Yandex Practicum)
+###### Разработчик платформенных тестов (декабрь 2022 — по наст. время)
+Разработка автоматических тестов для обучающих курсов (библиотека ast, GitHub workflow, unit-tests).
+Исследование платформенных и контентных проблем связанных с технической реализацией.
+
+Разработка инструментов для команды и бизнеса: парсеры, обработчики данных (в том числе GPT моделями), сервис для автоматической сборки дипломов.
+
+Консультации команды контента и разработчиков по вопросам технического сопровождения студентов.
+
+- DA/DS
+- Python Developer
+- Back-end Developer (Django)
+- Basic SQL
+- Java Developer (проверки на платформе реализованы как связка bash + python)
+
+> Фриланс
+###### Python back-end разработчик
+Разработка и поддержка REST API на Django с применением Django REST Framework (DRF), используя PostgreSQL и Docker.
+
+Разработка микросервиса для интеграции телеграм бота, нейронной сети и RabbitMQ, с использованием PostgreSQL, Redis в качестве кеша и дополнительной базы данных, а также RabbitMQ для обмена сообщениями.
+
+Моя роль включала разработку новых функциональностей и обеспечение надежной работы существующих сервисов, а также участие в проектировании системы с акцентом на производительность и масштабируемость.
+
+> iQutor
+###### Python back-end разработчик (март 2022 — февраль 2023)
+Поддержка и доработка django-сервиса с ботами на aiogram и asyncio для образовательной онлайн площадки с репетиторами для школьников.
+
+### Образование
+
+>Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики, Санкт-Петербург (Университет ИТМО)
+###### Магистр
+СУИР, Робототехника и искусственный интелект
+
+### Курсы
+
+- Университет ИТМО
+Openedu, Обработка и анализ данных
+- Университет ИТМО
+Openedu, Введение в машинное обучение
