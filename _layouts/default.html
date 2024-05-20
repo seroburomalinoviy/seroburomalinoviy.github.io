@@ -31,14 +31,17 @@
         </ul>
         {% endif %}
       </header>
-      <section id="cv-content">
-        <button onclick="ru_cv">RU</button>
-        <button onclick="en_cv">EN</button>
+      <button onclick="ru_cv()">RU</button>/
+      <button onclick="en_cv()">EN</button>
 
+      <section id="cv-content-ru">
         {{ content }}
-
-
       </section>
+
+      <section id="cv-content-en" style="display: none;">
+        Test!
+      </section>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -49,13 +52,17 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
 
-      function en_cv(){
-        document.getElementById("cv-content").textContent = "2";
-        }
+      function en_cv() {
+        document.getElementById("cv-content-ru").style.display = "none";
+        document.getElementById("cv-content-en").style.display = "block";
+      }
 
-      function ru_cv(){
-        document.getElementById("cv-content").textContent = `{{ content }}`;
-        }
-    </script>
+      function ru_cv() {
+        document.getElementById("cv-content-en").style.display = "none";
+        document.getElementById("cv-content-ru").style.display = "block";
+      }
+
+  </script>
+
   </body>
 </html>
