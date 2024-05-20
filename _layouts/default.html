@@ -31,15 +31,18 @@
         </ul>
         {% endif %}
       </header>
-      <button onclick="ru_cv()">RU</button>/
-      <button onclick="en_cv()">EN</button>
 
       <section id="cv-content-ru">
+        <button onclick="ru_cv()">RU</button>/
+        <button onclick="en_cv()">EN</button>
         {{ content }}
       </section>
 
       <section id="cv-content-en" style="display: none;">
-        Test!
+        <button onclick="en_cv()">EN</button>/
+        <button onclick="ru_cv()">RU</button>
+
+        {% include en_content.html %}
       </section>
 
       <footer>
