@@ -31,9 +31,9 @@
         </ul>
         {% endif %}
       </header>
-      <section>
-        <button onclick="ru_cv" id="ru_button">RU</button>
-        <button onclick="en_cv" id="en_button">EN</button>
+      <section id="cv-content">
+        <button onclick="ru_cv">RU</button>
+        <button onclick="en_cv">EN</button>
 
         {{ content }}
 
@@ -50,11 +50,11 @@
     <script>
 
       function en_cv(){
-        document.getElementById("en_button").textContent = "2";
+        document.getElementById("cv-content").textContent = "2";
         }
 
       function ru_cv(){
-        document.getElementById("ru_button").textContent = `{{ content }}`;
+        document.getElementById("cv-content").textContent = `{{ content }}`;
         }
     </script>
   </body>
