@@ -25,11 +25,11 @@ layout: default
 
 - DA/DS
 - Python Developer
-- Back-end Developer (Django)
+- Backend Developer (Django)
 - Basic SQL
 - Java Developer (проверки на платформе реализованы как связка bash + python)
 
-**Python back-end разработчик** @ Фриланс
+**Python backend разработчик** @ Фриланс
 
 Разработка и поддержка REST API на Django с применением Django REST Framework (DRF), используя PostgreSQL и Docker.
 
@@ -37,7 +37,7 @@ layout: default
 
 Моя роль включала разработку новых функциональностей и обеспечение надежной работы существующих сервисов, а также участие в проектировании системы с акцентом на производительность и масштабируемость.
 
-**Python back-end разработчик** @ iQutor (март 2022 — февраль 2023)
+**Python backend разработчик** @ iQutor (март 2022 — февраль 2023)
 
 Поддержка и доработка django-сервиса с ботами на aiogram и asyncio для образовательной онлайн площадки с репетиторами для школьников.
 
