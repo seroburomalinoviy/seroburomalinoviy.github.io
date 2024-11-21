@@ -7,13 +7,18 @@ layout: default
 
 [Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy) / [PDF](./CV.pdf)
 
->Привет! Хочу денно нощно работать над крутым продуктом.
+>Привет!
 Ищу интересные и сложные проекты в крутой it-компании.
-
 
 ## Опыт работы
 
-**Разработчик платформенных тестов** @ [TripleTen \[Yandex Practicum\]](https://tripleten.com) (декабрь 2022 — ...)
+**Middle python разработчик** @ [Газпромнефть Цифровые решения](https://ds.gazprom-neft.ru/) (август 2024 — ...)
+
+Доработка внутреннего проекта написанного на Django (drf), управление командой для вывода проекта в Prod.
+
+
+
+**Разработчик платформенных тестов** @ [TripleTen \[Yandex Practicum\]](https://tripleten.com) (декабрь 2022 — июль 2024)
 
 Разработка автоматических тестов для обучающих курсов (библиотека ast, GitHub workflow, unit-tests).
 Исследование платформенных и контентных проблем связанных с технической реализацией.
