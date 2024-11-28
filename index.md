@@ -7,14 +7,12 @@ layout: default
 
 [Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy) / [PDF](./CV.pdf)
 
->Привет!
-Ищу интересные и сложные проекты в крутой it-компании.
 
-## Опыт работы
+## Опыт работы - 2 года 9 месяцев
 
 **Middle python разработчик** @ [Газпромнефть Цифровые решения](https://ds.gazprom-neft.ru/) (август 2024 — ...)
 
-Доработка внутреннего проекта написанного на Django (drf), управление командой для вывода проекта в Prod.
+Доработка внутреннего проекта - система управления проектами (Django, drf).
 
 
 
