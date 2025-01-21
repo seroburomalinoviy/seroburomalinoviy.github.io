@@ -2,12 +2,10 @@
 layout: default
 ---
 
-[**RU**](./index.html)/[**EN**](./resume_en.html)
-
-# Сергеев Иван
+# Сергеев Иван / [Sergeev Ivan](./index.html)
 
 
-[Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy) / [PDF](./CV.pdf)
+[Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy)
 
 
 ## Опыт работы - 2 года 9 месяцев
