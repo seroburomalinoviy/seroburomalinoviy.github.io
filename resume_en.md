@@ -1,8 +1,8 @@
 ---
-layout: default_en
+layout: default
 ---
 
-[RU](./default_ru.html)/[EN](./default_en.html)
+[**RU**](./index.html)/[**EN**](./resume_en.html)
 
 # Sergeev Ivan
 
