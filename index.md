@@ -2,6 +2,8 @@
 layout: default_ru
 ---
 
+[RU](./default_ru.html)/[EN](./default_en.html)
+
 # Сергеев Иван
 
 
