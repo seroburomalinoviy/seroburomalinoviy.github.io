@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Sergeev Ivan / [Сергеев Иван](./resume_en.html)
+# Sergeev Ivan / [Сергеев Иван](./index.html)
 
 
 [Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy)
