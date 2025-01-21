@@ -1,1 +1,0 @@
-# My CV site with The Minimal theme
