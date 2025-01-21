@@ -10,13 +10,13 @@ layout: default
 
 ## Work experience - 2 years and 11 months
 
-**Middle python developer** @ [Gazpromneft Digital Solutions](https://ds.gazprom-neft.ru) (August 2024 — ...)
+**Middle python developer** @ [Gazpromneft DS](https://ds.gazprom-neft.ru) (August 2024 — ...)
 
 Completion of the internal project - project management system (Django, drf).
 
 
 
-**Python developer of platform tests** @ [TripleTen\[Yandex Practicum\]](https://tripleten.com ) (December 2022 — July 2024)
+**Python developer of platform tests** @ [TripleTen / Yandex Practicum](https://tripleten.com ) (December 2022 — July 2024)
 
 1) Developed a tool for the HR department - filtering and evaluating data based on integration with ChatGPT 3.5 (openai library)
 

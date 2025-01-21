@@ -10,13 +10,13 @@ layout: default
 
 ## Опыт работы - 2 года 11 месяцев
 
-**Middle python разработчик** @ [Газпромнефть Цифровые решения](https://ds.gazprom-neft.ru/) (август 2024 — ...)
+**Middle python разработчик** @ [Газпромнефть ЦР](https://ds.gazprom-neft.ru/) (август 2024 — ...)
 
 Доработка внутреннего проекта - система управления проектами (Django, drf).
 
 
 
-**Python разработчик платформенных тестов** @ [TripleTen \[Yandex Practicum\]](https://tripleten.com) (декабрь 2022 — июль 2024)
+**Python разработчик платформенных тестов** @ [TripleTen / Yandex Practicum](https://tripleten.com) (декабрь 2022 — июль 2024)
 
 1) Разработал инструмент для HR отдела - фильтрация и оценка данных на оснвое интеграции c ChatGPT 3.5 (библиотека openai)
 
