@@ -43,11 +43,15 @@ Stack
 Responsibilities
 
 - Developed the database architecture
+
 - Developed the microservice architecture of the Back-end
-- Developed a REST API based on the Django Rest Framework
-The application architecture has event-driven architecture elements that are implemented through Django Signals.
+
+- Developed a REST API based on the Django Rest Framework. The application architecture has event-driven architecture elements that are implemented through Django Signals
+
 - Developed integration with the service twine.org
+
 - Developed a Json parser using data migrations
+
 - Developed tools for managing the content of the application
 
 **Python developer of platform tests** @ [TripleTen / Yandex Practicum](https://tripleten.com ) (December 2022 — July 2024)
