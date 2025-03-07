@@ -8,55 +8,55 @@ layout: default
 [Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy)
 
 
-## Work experience - 2 years and 11 months
+## Work experience
 
-**Middle python developer** @ [Gazpromneft DS](https://ds.gazprom-neft.ru) (August 2024 — ...)
-
-Completion of the internal project - project management system (Django, drf).
-
-
-
-**Python developer of platform tests** @ [TripleTen / Yandex Practicum](https://tripleten.com ) (December 2022 — July 2024)
-
-1) Developed a tool for the HR department - filtering and evaluating data based on integration with ChatGPT 3.5 (openai library)
-
-2) Developed automated tests for training courses (ast library, GitHub workflow, unit-tests).
-
-3) Investigated platform and content issues related to technical implementation.
-
-**Python backend developer** @ [ArbuzikAI](https://t.me/Arbuzik_AIBot ) October 2023 — June 2024
+**Python backend developer** @ [ArbuzikAI](https://t.me/Arbuzik_AIBot ) October 2023 — March 2025
 
 [GitHub ArbuzikAI](https://github.com/seroburomalinoviy/arbuzikAIService)
 
-Made the following on the project:
+Stack
 
-1) Developed the architecture of the microservices application based on Docker containers (docker compose) and the Docker Swarm orchestrator
+- Django, FastAPI, python-telegram-bot, asyncio, RabbitMQ, Redis, Celery, PostgreSQL, Docker, Docker Swarm, Nginx, Gunicorn, Uvicorn, Grafana, Prometheus, Pydantic
 
-2) Developed an API on FastAPI for integration with payment services
+Responsibilities
 
-3) Developed the client part - a telegram bot based on asynchronous libraries (asyncio, python-telegram-bot)
+- Developed the microservice architecture of the application
 
-4) Organized the communication of services through the message broker RabbitMQ. I used Redis (redis list, redis stream) to set tasks for the application core
+- Developed an API for integration with payment services
 
-4) Configured Nginx configuration in reverse proxy server mode
+- Developed the client part - telegram bot
 
-5) Created an API for collecting metrics, connected Prometheus and Grafana.
+- Organized communication of services through a message broker
 
-I use Django ORM and SQL when working with PostgreSQL.
-I also used the following libraries in the project: Pydantic, httpx, collections.
+- Set up the Web server in reverse proxy server mode
 
-**Python backend developer** @ [StoryVerse](https://apps.apple.com/ru/app/storyverse-visual-novels/id6475628454 ) October 2023 — June 2024
+- Developed an API for collecting metrics
+
+**Python backend developer** @ [StoryVerse](https://apps.apple.com/ru/app/storyverse-visual-novels/id6475628454 ) October 2023 — January 2025
 
 [GitHub StoryVerse](https://github.com/seroburomalinoviy/StoryVerse)
 
-Made the following on the project:
+Stack
 
-1) Developed the database architecture and the architecture of the backend part of the REST API on Django and Django Rest Framework.
-The application architecture has event-driven architecture elements, which are implemented using Django Signals.
+- Django, DRF, FastAPI, SQLAlchemy, Pydantic, Docker, Docker Compose, PostgreSQL, Nginx, MinIO, HTTPS, WebSocket, JWT Authentication
 
-2) Developed integration with the service twine.org using json. I have configured DockerFile, docker compose, nginx and MinIO for the project.
+Responsibilities
 
-I use Django ORM and SQL when working with PostgreSQL.
+- Developed the database architecture
+- Developed the microservice architecture of the Back-end
+- Developed a REST API based on the Django Rest Framework
+The application architecture has event-driven architecture elements that are implemented through Django Signals.
+- Developed integration with the service twine.org
+- Developed a Json parser using data migrations
+- Developed tools for managing the content of the application
+
+**Python developer of platform tests** @ [TripleTen / Yandex Practicum](https://tripleten.com ) (December 2022 — July 2024)
+
+- Developed a tool for the HR department - filtering and evaluating data based on integration with ChatGPT 3.5 (openai library)
+
+- Developed automated tests for training courses (ast library, GitHub workflow, unit-tests).
+
+- Investigated platform and content issues related to technical implementation.
 
 
 **Python backend developer** @ iQutor March 2022 — February 2023

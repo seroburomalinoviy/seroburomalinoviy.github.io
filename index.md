@@ -8,55 +8,55 @@ layout: default
 [Telegram](https://t.me/Sergeevid) / [LinkedIn](https://www.linkedin.com/in/ivan-sergeev-b0b659254/) / [Github](https://github.com/seroburomalinoviy)
 
 
-## Опыт работы - 2 года 11 месяцев
+## Опыт работы
 
-**Middle python разработчик** @ [Газпромнефть ЦР](https://ds.gazprom-neft.ru/) (август 2024 — ...)
+**Python backend разработчик** @ [ArbuzikAI](https://t.me/Arbuzik_AIBot) Октябрь 2023 — Март 2025
 
-Доработка внутреннего проекта - система управления проектами (Django, drf).
+[GitHub ArbuzikAI](https://github.com/seroburomalinoviy/arbuzikAIService)
 
+Стек
+
+- Django, FastAPI, python-telegram-bot, asyncio, RabbitMQ, Redis, Celery, PostgreSQL, Docker, Docker Swarm, Nginx, Gunicorn, Uvicorn, Grafana, Prometheus, Pydantic
+
+Обязанности
+
+- Разработал микросервисную архитектуру приложения
+
+- Разработал API для интеграции с платежными сервисами
+
+- Разработал клиентскую часть - телеграм бот
+
+- Организовал общение сервисов через брокер сообщений
+
+- Настроил Веб-сервер в режим обратного прокси сервера
+
+- Разработал API для сбора метрик
+
+**Python backend разработчик** @ [StoryVerse](https://apps.apple.com/ru/app/storyverse-visual-novels/id6475628454) Октябрь 2023 — Январь 2025
+
+[GitHub StoryVerse](https://github.com/seroburomalinoviy/StoryVerse)
+
+Стек
+
+- Django, DRF, FastAPI, SQLAlchemy, Pydantic, Docker, Docker Compose, PostgreSQL, Nginx, MinIO, HTTPS, WebSocket, JWT Authentication
+
+Обязанности
+
+- Разработал архитектуру базы данных
+- Разработал микросервисную архитектуру Back-end
+- Разработал REST API на Django Rest Framework
+Архитектура приложения имеет элементы event-driven architecture, которые реализованы посредством Django Signals
+- Разработал интеграцию с сервисом twine.org
+- Разработал парсер Json с использованием дата-миграций
+- Разработал инструменты для управления контентом приложения
 
 
 **Python разработчик платформенных тестов** @ [TripleTen / Yandex Practicum](https://tripleten.com) (декабрь 2022 — июль 2024)
 
-1) Разработал инструмент для HR отдела - фильтрация и оценка данных на основе интеграции c ChatGPT 3.5 (библиотека openai)
+- Разработал инструмент для HR отдела - фильтрация и оценка данных на основе интеграции c ChatGPT 3.5 (библиотека openai)
+- Разработал автоматические тесты для обучающих курсов (библиотека ast, GitHub workflow, unit-tests).
+- Исследовал платформенные и контентные проблемы связанные с технической реализацией.
 
-2) Разработал автоматические тесты для обучающих курсов (библиотека ast, GitHub workflow, unit-tests).
-
-3) Исследовал платформенные и контентные проблемы связанные с технической реализацией.
-
-**Python backend разработчик** @ [ArbuzikAI](https://t.me/Arbuzik_AIBot) Октябрь 2023 — Июнь 2024
-
-[GitHub ArbuzikAI](https://github.com/seroburomalinoviy/arbuzikAIService)
-
-На проекте выполнил следующее:
-
-1) Разработал архитектуру приложения - микросервисы на контейнерах Docker (docker compose) и оркестраторе Docker Swarm
-
-2) Разработал API на FastAPI для интеграции с платежными сервисами
-
-3) Разработал клиентскую часть - телеграм бот на асинхронных библиотеках (asyncio, python-telegram-bot)
-
-4) Организовал общение сервисов через брокер сообщений RabbitMQ. Для постановки задач ядру приложения использовал Redis (redis list, redis stream)
-
-4) Настроил конфигурацию Nginx в режим обратного прокси сервера
-
-5) Создал API для сбора метрик, подключил Prometheus и Grafana.
-
-В работе с PostgreSQL использую Django ORM и SQL.
-Также использовал в проекте следующие библиотеки: Pydantic, httpx, collections.
-
-**Python backend разработчик** @ [StoryVerse](https://apps.apple.com/ru/app/storyverse-visual-novels/id6475628454) Октябрь 2023 — Июнь 2024
-
-[GitHub StoryVerse](https://github.com/seroburomalinoviy/StoryVerse)
-
-На проекте выполнил следующее:
-
-1) Разработал архитектуру базы данных и архитектуру бекенд части REST API на Django и Django Rest Framework.
-Архитектура приложения имеет элементы event-driven architecture, которые реализованы посредством Django Signals.
-
-2) Разработал интеграцию с сервисом twine.org посредством json. Для проекта сконфигурировал DockerFile, docker compose, nginx и MinIO.
-
-В работе c PostgreSQL использую Django ORM и SQL.
 
 
 **Python backend разработчик** @ iQutor Март 2022 — Февраль 2023
