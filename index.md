@@ -46,7 +46,7 @@ layout: default
 
 - Разработал микросервисную архитектуру Back-end
 
-- Разработал REST API на Django Rest Framework. Архитектура приложения имеет элементы event-driven architecture, которые реализованы посредством Django Signals
+- Разработал REST API на Django Rest Framework
 
 - Разработал интеграцию с сервисом twine.org
 

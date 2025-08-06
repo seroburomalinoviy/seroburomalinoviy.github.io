@@ -46,7 +46,7 @@ Responsibilities
 
 - Developed the microservice architecture of the Back-end
 
-- Developed a REST API based on the Django Rest Framework. The application architecture has event-driven architecture elements that are implemented through Django Signals
+- Developed a REST API based on the Django Rest Framework 
 
 - Developed integration with the service twine.org
 
