@@ -10,6 +10,28 @@ layout: default
 
 ## Опыт работы
 
+Python backend разработчик @ [ПК Медведь](https://medved1.ru) Март 2025 - наст. время
+
+Стек
+
+- Python 3.12, asyncio, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Nginx, Docker, Grafana, JavaScript
+
+Обязанности
+
+- Разработал архитектуру системы управления складскими роботами
+
+- Разработал алгоритмы планирования движением роботов
+
+- Разрабатывал часть серверной части ПО
+
+- Разработал инфраструктуру
+
+- Помощь комманде
+
+- Управление задачами, планирование спринтов
+
+
+
 **Python backend разработчик** @ [ArbuzikAI](https://t.me/Arbuzik_AIBot) Октябрь 2023 — Март 2025
 
 [GitHub ArbuzikAI](https://github.com/seroburomalinoviy/arbuzikAIService)

@@ -10,6 +10,27 @@ layout: default
 
 ## Work experience
 
+**Python backend developer** @ [PK Medved]( https://medved1.r) March 2025 — ...
+
+Stack
+
+- Python 3.12, asyncio, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Nginx, Docker, Grafana, JavaScript
+
+Responsibilities
+
+- Developed the architecture of the warehouse robot control system
+
+- Developed robot movement planning algorithms
+
+- Developed part of the server-side software
+
+- Developed the infrastructure
+
+- Team support
+
+- Task management, sprint planning
+
+
 **Python backend developer** @ [ArbuzikAI](https://t.me/Arbuzik_AIBot ) October 2023 — March 2025
 
 [GitHub ArbuzikAI](https://github.com/seroburomalinoviy/arbuzikAIService)
