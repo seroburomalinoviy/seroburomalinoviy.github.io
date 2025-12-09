@@ -10,7 +10,7 @@ layout: default
 
 ## Work experience
 
-**Python backend developer** @ [PK Medved]( https://medved1.r) March 2025 — ...
+**Python engineer** @ [PK Medved]( https://medved1.r) March 2025 — ...
 
 Stack
 
