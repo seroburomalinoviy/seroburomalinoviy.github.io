@@ -14,7 +14,7 @@ layout: default
 
 Stack
 
-- Python 3.12, asyncio, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Nginx, Docker, Grafana, JavaScript
+- Python 3.12, asyncio, FastAPI, SQLAlchemy, Pytest, PostgreSQL, Redis, RabbitMQ, Nginx, Docker, Grafana, JavaScript
 
 Responsibilities
 
